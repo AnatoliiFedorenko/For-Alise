@@ -1,4 +1,16 @@
 .btn {
   margin-top: 250px;
-  margin-left: 155px;
+  margin-left: 105px;
+
+  display: inline-block; /* Строчно-блочный элемент */
+  background: lightskyblue; /* Серый цвет фона */
+  color: black; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+}
+
+.btn:hover {
+  color: lightskyblue;
+  background: black;
 }
