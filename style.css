@@ -22,15 +22,32 @@
 
 .btn {
   margin-top: 250px;
-  margin-left: 115px;
+  margin-left: 133px;
+}
+
+.btn12 {
+  margin-top: 250px;
+  margin-left: 127px;
 }
 
 .btn1 {
   width: 100px;
   height: 100%;
+  background-color: green;
 }
 
 .btn2 {
   width: 150px;
   height: 100%;
+  background-color: red;
+}
+
+.btn4 {
+  margin-top: 0px;
+  margin-left: 127px;
+  /* background-color: green; */
+}
+
+.page4 {
+  margin-top: 30px;
 }
