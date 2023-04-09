@@ -12,7 +12,25 @@
   background: black;
 }
 
+.buttons {
+  display: flex;
+  margin-top: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: space-between;
+}
+
 .btn {
   margin-top: 250px;
   margin-left: 115px;
+}
+
+.btn1 {
+  width: 100px;
+  height: 100%;
+}
+
+.btn2 {
+  width: 150px;
+  height: 100%;
 }
